@@ -2094,9 +2094,9 @@ ul.social-network li {
     margin-bottom: 10px;
 }
 
-.lonon-quote-card hr{
-    height: 2px;
-    color:crimson;
+.lonon-quote-card p.occupation {
+    font-size: 14px;
+    margin: 0;
 }
 
 .lonon-quote-card h5 {
