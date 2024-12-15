@@ -2091,8 +2091,14 @@ ul.social-network li {
 
 .lonon-quote-card p {
     font-size: 18px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
+.lonon-quote-card p::after {
+    content: ""; /* 创建伪元素 */
+    display: block; /* 使其成为块级元素 */
+    height: 2px; /* 红线的高度 */
+    background: red; /* 红线的颜色 */
+    margin-top: 10px; /* 红线与段落之间的间距 */}
 
 .lonon-quote-card p.occupation {
     font-size: 14px;
