@@ -1274,7 +1274,7 @@ ol.comment-list li .children li {
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 
 .lonon-social li a {
@@ -1284,7 +1284,7 @@ ol.comment-list li .children li {
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     -ms-border-radius: 7px;
