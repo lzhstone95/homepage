@@ -2097,7 +2097,7 @@ ul.social-network li {
     content: ""; /* 创建伪元素 */
     display: block; /* 使其成为块级元素 */
     height: 2px; /* 红线的高度 */
-    background: red; /* 红线的颜色 */
+    background: #0556BF; /* 红线的颜色 */
     margin-top: 10px; /* 红线与段落之间的间距 */}
 
 .lonon-quote-card p.occupation {
