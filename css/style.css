@@ -2073,6 +2073,7 @@ ul.social-network li {
     background-color: #f6f6f6;
     text-align:justify;
     border-radius: 8px;
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
@@ -2090,8 +2091,12 @@ ul.social-network li {
 
 .lonon-quote-card p {
     font-size: 18px;
-    margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.lonon-quote-card hr{
+    height: 2px;
+    color:crimson;
 }
 
 .lonon-quote-card p.occupation {
