@@ -2090,6 +2090,7 @@ ul.social-network li {
 }
 
 .lonon-quote-card p {
+    position: relative; /* 允许绝对定位 */
     font-size: 18px;
     margin-bottom: 10px;
 }
